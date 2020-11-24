@@ -1,15 +1,14 @@
 # Awesome AI in Finance [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Community](https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA)](https://discord.gg/cqaUf47)
 
-> A curated list of useful resources for Financial AI
-
-Machine learning algorithm and useful tools use in financial market, include traditional market like `stock/futures/currencies` and crypto currency markets.
+There are millions of trades made in the global financial market every day. Data grows very quickly and people are hard to understand.
+With the power of the latest artificial intelligence research, people analyze & trade automatically and intelligently. This list contains the research, tools and code that people use to beat the market.
 
 [[中文资源](./chinese.md)]
 
 ## Contents
 
 - [Papers](#papers)
-- [Courses & Book](#courses--book)
+- [Courses & Books](#courses--books)
 - [Strategies & Research](#strategies--research)
   - [Time Series Data](#time-series-data)
   - [Portfolio Management](#portfolio-management)
@@ -31,22 +30,22 @@ Machine learning algorithm and useful tools use in financial market, include tra
 
 - [The Theory of Speculation L. Bachelier, 1900](http://www.radio.goldseek.com/bachelier-thesis-theory-of-speculation-en.pdf) - The influences which determine the movements of the Stock Exchange are.
 - [Brownian Motion in the Stock Market Osborne, 1959](http://m.e-m-h.org/Osbo59.pdf) - The common-stock prices can be regarded as an ensemble of decisions in statistical equilibrium.
-- [An Investigation into the Use of Reinforcement Learning Techniques within the Algorithmic Trading Domain(2015)](http://www.doc.ic.ac.uk/teaching/distinguished-projects/2015/j.cumming.pdf)
-- [Ten Financial Applications of Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197726) - Presentation Slides.
+- [An Investigation into the Use of Reinforcement Learning Techniques within the Algorithmic Trading Domain, 2015](http://www.doc.ic.ac.uk/teaching/distinguished-projects/2015/j.cumming.pdf)
 - [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
-- [Reinforcement Learning for Trading 1994](http://papers.nips.cc/paper/1551-reinforcement-learning-for-trading.pdf)
+- [Reinforcement Learning for Trading, 1994](http://papers.nips.cc/paper/1551-reinforcement-learning-for-trading.pdf)
 - [Dragon-Kings, Black Swans and the Prediction of Crises Didier Sornette](https://arxiv.org/pdf/0907.4290.pdf) - The power laws in the distributions of event sizes under a broad range of conditions in a large variety of systems. 
 - [Financial Trading as a Game: A Deep Reinforcement Learning Approach](https://arxiv.org/pdf/1807.02787.pdf) - Deep reinforcement learning provides a framework toward end-to-end training of such trading agent.
 - [Machine Learning for Trading](https://cims.nyu.edu/~ritter/ritter2017machine.pdf) - With an appropriate choice of the reward function, reinforcement learning techniques can successfully handle the risk-averse case.
-- [Ten Financial Applications of Machine Learning, 2018](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197726) - Seminar Slides.
+- [Ten Financial Applications of Machine Learning, 2018](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197726) - Slides review few important financial ML applications.
 
-## Courses & Book
+## Courses & Books
 
 - [NYU: Overview of Advanced Methods of Reinforcement Learning in Finance](https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance/home/welcome)
 - [Udacity: Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
 - [AI in Finance](https://cfte.education/) - Learn Fintech Online.
 - [Advanced-Deep-Trading](https://github.com/Rachnog/Advanced-Deep-Trading) - Experiments based on "Advances in financial machine learning" book.
 - [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21/ref=sr_1_1?s=books&ie=UTF8&qid=1541717436&sr=1-1) - Using advanced ML solutions to overcome real-world investment problems.
+- [Mastering Python for Finance](https://github.com/jamesmawm/mastering-python-for-finance-second-edition) - Sources codes for: Mastering Python for Finance, Second Edition.
 
 ## Strategies & Research
 
@@ -56,26 +55,27 @@ Price and Volume process with Technology Analysis Indices
 
 - 🌟🌟 [stockpredictionai](https://github.com/borisbanushev/stockpredictionai) - A complete process for predicting stock price movements.
 - 🌟 [Personae](https://github.com/Ceruleanacg/Personae) - Implements and environment of Deep Reinforcement Learning & Supervised Learning for Quantitative Trading.
-- [AutomatedStockTrading-DeepQ-Learning](https://github.com/sachink2010/AutomatedStockTrading-DeepQ-Learning) - Build a Deep Q-learning reinforcement agent model as a automated trading robots.
-- [tf_deep_rl_trader](https://github.com/miroblog/tf_deep_rl_trader) - Trading Environment(OpenAI Gym) + PPO(TensorForce).
+- [AutomatedStockTrading-DeepQ-Learning](https://github.com/sachink2010/AutomatedStockTrading-DeepQ-Learning) - Build a Deep Q-learning reinforcement agent model as automated trading robot.
+- [tf_deep_rl_trader](https://github.com/miroblog/tf_deep_rl_trader) - Trading environment(OpenAI Gym) + PPO(TensorForce).
 - [trading-gym](https://github.com/6-Billionaires/trading-gym) - Trading agent to train with episode of short term trading itself.
 - [trading-rl](https://github.com/Kostis-S-Z/trading-rl) - Deep Reinforcement Learning for Financial Trading using Price Trailing.
-- [deep_rl_trader](https://github.com/miroblog/deep_rl_trader) - Trading Environment(OpenAI Gym) + DDQN (Keras-RL).
-- [Quantitative-Trading](https://github.com/Ceruleanacg/Quantitative-Trading) - Papers and Code Implements for Quantitative-Trading.
+- [deep_rl_trader](https://github.com/miroblog/deep_rl_trader) - Trading environment(OpenAI Gym) + DDQN (Keras-RL).
+- [Quantitative-Trading](https://github.com/Ceruleanacg/Quantitative-Trading) - Papers and code implementing Quantitative-Trading.
 - [gym-trading](https://github.com/hackthemarket/gym-trading) - Environment for reinforcement-learning algorithmic trading models.
 - [zenbrain](https://github.com/carlos8f/zenbrain) - A framework for machine-learning bots.
 - [DeepLearningNotes](https://github.com/AlphaSmartDog/DeepLearningNotes) - Machine learning in quant analysis.
-- [stock_market_reinforcement_learning](https://github.com/kh-kim/stock_market_reinforcement_learning) - Stock Trading Market OpenAI Gym Environment with Deep Reinforcement Learning using Keras.
+- [stock_market_reinforcement_learning](https://github.com/kh-kim/stock_market_reinforcement_learning) - Stock market trading OpenAI Gym environment with Deep Reinforcement Learning using Keras.
 
 ### Portfolio Management
 
 - [Deep-Reinforcement-Stock-Trading](https://github.com/Albert-Z-Guo/Deep-Reinforcement-Stock-Trading) - A light-weight deep reinforcement learning framework for portfolio management.
-- [qtrader](https://github.com/filangel/qtrader) - Reinforcement Learning for Portfolio Management.
-- [PGPortfolio](https://github.com/ZhengyaoJiang/PGPortfolio) - A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem.
+- [qtrader](https://github.com/filangel/qtrader) - Reinforcement Learning for portfolio management.
+- [PGPortfolio](https://github.com/ZhengyaoJiang/PGPortfolio) - A Deep Reinforcement Learning framework for the financial portfolio management problem.
 - [DeepDow](https://github.com/jankrepl/deepdow) - Portfolio optimization with deep learning.
 
 ### High Frequency Trading
 
+- [High-Frequency-Trading-Model-with-IB](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB) - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion.
 - 🌟 [SGX-Full-OrderBook-Tick-Data-Trading-Strategy](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy) - Solutions for high-frequency trading (HFT) strategies using data science approaches (Machine Learning) on Full Orderbook Tick Data.
 - [HFT_Bitcoin](https://github.com/ghgr/HFT_Bitcoin) - Analysis of High Frequency Trading on Bitcoin exchanges.
 
@@ -87,9 +87,9 @@ Price and Volume process with Technology Analysis Indices
 ### Crypto Currencies Strategies
 
 - [LSTM-Crypto-Price-Prediction](https://github.com/SC4RECOIN/LSTM-Crypto-Price-Prediction) - Predicting price trends in crypto markets using an LSTM-RNN for trading.
-- [tforce_btc_trader](https://github.com/lefnire/tforce_btc_trader) - TensorForce Bitcoin Trading Bot.
+- [tforce_btc_trader](https://github.com/lefnire/tforce_btc_trader) - TensorForce Bitcoin trading bot.
 - [Tensorflow-NeuroEvolution-Trading-Bot](https://github.com/SC4RECOIN/Tensorflow-NeuroEvolution-Trading-Bot) - A population model that trade cyrpto and breed and mutate iteratively.
-- [gekkoga](https://github.com/gekkowarez/gekkoga) - Genetic Algorithm for solving optimization of trading strategies using Gekko.
+- [gekkoga](https://github.com/gekkowarez/gekkoga) - Genetic algorithm for solving optimization of trading strategies using Gekko.
 - [Gekko_ANN_Strategies](https://github.com/markchen8717/Gekko_ANN_Strategies) - ANN trading strategies for the Gekko trading bot.
 - [gekko-neuralnet](https://github.com/zschro/gekko-neuralnet) - Neural network strategy for Gekko.
 - [bitcoin_prediction](https://github.com/llSourcell/bitcoin_prediction) - Code for "Bitcoin Prediction" by Siraj Raval on YouTube.
@@ -104,8 +104,8 @@ Price and Volume process with Technology Analysis Indices
 - [EthTradingAlgorithm](https://github.com/Philipid3s/EthTradingAlgorithm) - Ethereum trading algorithm using Python 3.5 and the library ZipLine.
 - [gekko_trading_stuff](https://github.com/thegamecat/gekko-trading-stuff) - Awesome crypto currency trading platform.
 - [forex.analytics](https://github.com/mkmarek/forex.analytics) - Node.js native library performing technical analysis over an OHLC dataset with use of genetic algorithmv.
-- [Bitcoin_MACD_Strategy](https://github.com/VermeirJellen/Bitcoin_MACD_Strategy) - Bitcoin MACD Crossover Trading Strategy Backtest.
-- [crypto-signal](https://github.com/CryptoSignal/crypto-signal) - Automated Crypto Trading & Technical Analysis (TA) Bot for Bittrex, Binance, GDAX, and more.
+- [Bitcoin_MACD_Strategy](https://github.com/VermeirJellen/Bitcoin_MACD_Strategy) - Bitcoin MACD crossover trading strategy backtest.
+- [crypto-signal](https://github.com/CryptoSignal/crypto-signal) - Automated crypto trading & technical analysis (TA) bot for Bittrex, Binance, GDAX, and more.
 - [Gekko-Strategies](https://github.com/xFFFFF/Gekko-Strategies) - Strategies to Gekko trading bot with backtests results and some useful tools.
 - [gekko-gannswing](https://github.com/johndoe75/gekko-gannswing) - Gann's Swing trade strategy for Gekko trade bot.
 
@@ -127,20 +127,20 @@ Price and Volume process with Technology Analysis Indices
 
 - 🌟 [Quandl](https://www.quandl.com/tools/api) - Get millions of financial and economic dataset from hundreds of publishers via a single free API.
 - [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
-- [Tushare](https://github.com/waditu/tushare) - A util for crawling historical data of China stocks.
+- [Tushare](https://github.com/waditu/tushare) - Crawling historical data of Chinese stocks.
 
 #### Crypto Currencies
 
 - [CryptoInscriber](https://github.com/Optixal/CryptoInscriber) - A live crypto currency historical trade data blotter. Download live historical trade data from any crypto exchange.
-- [Gekko-Datasets](https://github.com/xFFFFF/Gekko-Datasets) - Gekko Trading Bot dataset dumps. Download and use history files in SQLite format.
+- [Gekko-Datasets](https://github.com/xFFFFF/Gekko-Datasets) - Gekko trading bot dataset dumps. Download and use history files in SQLite format.
 
 ## Research Tools
 
-- 🌟🌟 [TensorTrade](https://github.com/tensortrade-org/tensortrade) - Trade Efficiently with Reinforcement Learning.
+- 🌟🌟 [TensorTrade](https://github.com/tensortrade-org/tensortrade) - Trade efficiently with reinforcement learning.
 - [JAQS](https://github.com/quantOS-org/JAQS) - An open source quant strategies research platform.
 - [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python.
 - [alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors.
-- [empyrical](https://github.com/quantopian/empyrical) - Common financial risk and performance metrics. Used by zipline and pyfolio.
+- [empyrical](https://github.com/quantopian/empyrical) - Common financial risk and performance metrics. Used by Zipline and pyfolio.
 - [zvt](https://github.com/zvtvz/zvt) - Zero vector trader.
 
 ## Trading System
@@ -151,11 +151,12 @@ For Back Test & Live trading
 
 **System**
 
-- 🌟🌟 [zipline](https://github.com/quantopian/zipline) - A Python Algorithmic Trading Library.
+- 🌟🌟 [zipline](https://github.com/quantopian/zipline) - A python algorithmic trading library.
 - 🌟 [TradingView](http://tradingview.com/) - Get real-time information and market insights.
 - [rqalpha](https://github.com/ricequant/rqalpha) - A extendable, replaceable Python algorithmic backtest & trading framework.
-- [backtrader](https://github.com/backtrader/backtrader) - Python Backtesting library for trading strategies.
-- [kungfu](https://github.com/taurusai/kungfu) - Kungfu Master Trading System.
+- [backtrader](https://github.com/backtrader/backtrader) - Python backtesting library for trading strategies.
+- [kungfu](https://github.com/taurusai/kungfu) - Kungfu Master trading system.
+- [lean](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading.
 
 **Combine & Rebuild**
 
@@ -167,7 +168,7 @@ For Back Test & Live trading
 - [zenbot](https://github.com/DeviaVir/zenbot) - Command-line crypto currency trading bot using Node.js and MongoDB.
 - [bot18](https://github.com/carlos8f/bot18) - High-frequency crypto currency trading bot developed by Zenbot.
 - [magic8bot](https://github.com/magic8bot/magic8bot) - Crypto currency trading bot using Node.js and MongoDB.
-- [catalyst](https://github.com/enigmampc/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python.
+- [catalyst](https://github.com/enigmampc/catalyst) - An algorithmic trading library for Crypto-Assets in python.
 - [QuantResearchDev](https://github.com/mounirlabaied/QuantResearchDev) - Quant Research dev & Traders open source project.
 - [MACD](https://github.com/sudoscripter/MACD) - Zenbot MACD Auto-Trader.
 - [abu](https://github.com/bbfamily/abu) - A quant trading system base on python.
@@ -181,7 +182,7 @@ For Back Test & Live trading
 
 - [pandas_talib](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators.
 - [finta](https://github.com/peerchemist/finta) - Common financial technical indicators implemented in Python-Pandas (70+ indicators).
-- [tulipnode](https://github.com/TulipCharts/tulipnode) - Official Node.js wrapper for Tulip Indicators. It provides over 100 technical analysis overlay and indicator functions.
+- [tulipnode](https://github.com/TulipCharts/tulipnode) - Official Node.js wrapper for Tulip Indicators. Provides over 100 technical analysis overlay and indicator functions.
 - [techan.js](https://github.com/andredumas/techan.js) - A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3.
 
 ## Exchange API
@@ -222,4 +223,3 @@ Do it in real world!
 
 - 🌟 [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant / Algorithm trading resources with an emphasis on Machine Learning.
 - [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
-- [awesome-quant-china](https://github.com/thuquant/awesome-quant) - Quant resource in china.
