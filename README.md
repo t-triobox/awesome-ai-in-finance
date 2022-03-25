@@ -37,6 +37,8 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Financial Trading as a Game: A Deep Reinforcement Learning Approach](https://arxiv.org/pdf/1807.02787.pdf) - Deep reinforcement learning provides a framework toward end-to-end training of such trading agent.
 - [Machine Learning for Trading](https://cims.nyu.edu/~ritter/ritter2017machine.pdf) - With an appropriate choice of the reward function, reinforcement learning techniques can successfully handle the risk-averse case.
 - [Ten Financial Applications of Machine Learning, 2018](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197726) - Slides review few important financial ML applications.
+- [FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance, 2020](https://arxiv.org/abs/2011.09607) - Introduce a DRL library FinRL that facilitates beginners to expose themselves to quantitative finance and to develop their own stock trading strategies.
+- [Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy, 2020](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996) - Propose an ensemble strategy that employs deep reinforcement schemes to learn a stock trading strategy by maximizing investment return.
 
 ## Courses & Books
 
@@ -55,6 +57,8 @@ Price and Volume process with Technology Analysis Indices
 
 - 🌟🌟 [stockpredictionai](https://github.com/borisbanushev/stockpredictionai) - A complete process for predicting stock price movements.
 - 🌟 [Personae](https://github.com/Ceruleanacg/Personae) - Implements and environment of Deep Reinforcement Learning & Supervised Learning for Quantitative Trading.
+- 🌟 [Ensemble-Strategy](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading.
+- [FinRL](https://github.com/AI4Finance-LLC/FinRL-Library) - A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance.
 - [AutomatedStockTrading-DeepQ-Learning](https://github.com/sachink2010/AutomatedStockTrading-DeepQ-Learning) - Build a Deep Q-learning reinforcement agent model as automated trading robot.
 - [tf_deep_rl_trader](https://github.com/miroblog/tf_deep_rl_trader) - Trading environment(OpenAI Gym) + PPO(TensorForce).
 - [trading-gym](https://github.com/6-Billionaires/trading-gym) - Trading agent to train with episode of short term trading itself.
@@ -65,6 +69,7 @@ Price and Volume process with Technology Analysis Indices
 - [zenbrain](https://github.com/carlos8f/zenbrain) - A framework for machine-learning bots.
 - [DeepLearningNotes](https://github.com/AlphaSmartDog/DeepLearningNotes) - Machine learning in quant analysis.
 - [stock_market_reinforcement_learning](https://github.com/kh-kim/stock_market_reinforcement_learning) - Stock market trading OpenAI Gym environment with Deep Reinforcement Learning using Keras.
+- [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis..
 
 ### Portfolio Management
 
@@ -137,6 +142,7 @@ Price and Volume process with Technology Analysis Indices
 ## Research Tools
 
 - 🌟🌟 [TensorTrade](https://github.com/tensortrade-org/tensortrade) - Trade efficiently with reinforcement learning.
+- [ML-Quant](https://www.ml-quant.com/) - Quant resources from ArXiv (sanity), SSRN, RePec, Journals, Podcasts, Videos, and Blogs.
 - [JAQS](https://github.com/quantOS-org/JAQS) - An open source quant strategies research platform.
 - [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python.
 - [alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors.
@@ -221,5 +227,7 @@ Do it in real world!
 
 #### Other Resource
 
+- 🌟🌟🌟 [Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Stock-Prediction-Models, Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations.
+- 🌟🌟 [Financial Machine Learning](https://github.com/firmai/financial-machine-learning) - A curated list of practical financial machine learning (FinML) tools and applications. This collection is primarily in Python.
 - 🌟 [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant / Algorithm trading resources with an emphasis on Machine Learning.
 - [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
